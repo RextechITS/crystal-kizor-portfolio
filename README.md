@@ -1,32 +1,43 @@
-# Crystal Kizor — React Landing Page
+# Crystal Kizor — Ecosystem Landing Page
 
-A responsive React/Vite implementation of the Crystal Kizor landing-page concept.
+## Overview
 
-## Run locally
+A responsive personal-brand ecosystem website designed for
+architect, designer, researcher and entrepreneur Crystal Kizor.
 
-```bash
-npm install
-npm run dev
-```
+## Concept
 
-Then open the local Vite URL.
+The experience positions Crystal as the central narrative
+and organizes her ecosystem around three visitor intentions:
 
-## Production build
+- Build
+- Learn
+- Impact
 
-```bash
-npm run build
-npm run preview
-```
+## Tech Stack
 
-## Replace the placeholders
+- Next.js
+- TypeScript
+- Tailwind CSS
+- Framer Motion
+- Vercel
 
-The project currently uses Unsplash image URLs as temporary visual placeholders. Replace them with the supplied Crystal Kizor assets in `src/data/content.js` and the image URLs inside `src/components`/`src/App.jsx`.
+## UX Approach
 
-Before submission, also replace `hello@example.com` and the social links with the real contact/profile URLs.
+Person → Point of View → Work → Ecosystem → Ideas → Action
 
-## Structure
+## Performance
 
-- `src/App.jsx` — complete page and reusable section components
-- `src/data/content.js` — projects, ecosystem and journal content
-- `src/styles.css` — responsive editorial design system
-- `src/main.jsx` — React entry point
+- Responsive images
+- Semantic HTML
+- Optimized fonts
+- Minimal JavaScript
+- Accessible interactions
+
+## AI Product Concept
+
+TEA Career Copilot
+
+## Analytics
+
+Event-based funnel tracking for CTA and enquiry conversion.
