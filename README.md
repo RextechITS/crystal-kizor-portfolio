@@ -22,6 +22,7 @@ and organizes her ecosystem around three visitor intentions:
 - Tailwind CSS
 - Framer Motion
 - Vercel
+- JavaScript
 
 ## UX Approach
 
