@@ -16,8 +16,9 @@ and organizes her ecosystem around three visitor intentions:
 
 ## Tech Stack
 
-- Next.js
+- React.Js
 - TypeScript
+- CSS
 - Tailwind CSS
 - Framer Motion
 - Vercel
