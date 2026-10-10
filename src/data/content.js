@@ -1,5 +1,7 @@
-import { image } from "framer-motion/client";
 
+import dinerImage from '../assets/dinNer.jpeg';
+import gymImage from '../assets/Gym.jpeg';
+import studioCokaImage from '../assets/studioCoka.jpeg';
 
 export const projects = [
   {
@@ -7,26 +9,24 @@ export const projects = [
     title: 'Diner',
     category: 'Climate-responsive healthcare',
     location: 'Lagos, Nigeria',
-    // image: 'https://images.unsplash.com/photo-1586773860418-d37222d8fce3?auto=format&fit=crop&w=1600&q=85',
-    image: 'src/assets/dinNer.jpeg',
+    image: dinerImage,
   },
   {
     number: '02',
     title: 'Gym',
     category: 'Architecture & everyday life',
     location: 'Nigeria',
-    // image: 'https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1600&q=85',
-    image: '/src/assets/Gym.jpeg',
+    image: gymImage,
   },
   {
     number: '03',
     title: 'Studio',
     category: 'Community & housing',
     location: 'Lagos, Nigeria',
-    // image: 'https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1600&q=85',
-    image: '/src/assets/studioCoka.jpeg',
+    image: studioCokaImage,
   },
 ];
+
 
 export const ecosystem = [
   {
